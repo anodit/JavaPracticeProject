@@ -1,0 +1,3 @@
+Packages two types
+1. Build in package e.g --> java.util.Scanner, java.applet.Applet
+2. User Defined Package Syntax --> package package_name, e.g --> package mypack;

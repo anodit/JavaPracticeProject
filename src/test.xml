@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<firstName>Mohit</firstName>
+	<lastName>Kumar</lastName>
+	<age>26</age>
+	<city>New Delhi</city>
+</student>
